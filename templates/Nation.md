@@ -4,9 +4,8 @@
 # Known Places
 
 ## Cities
-- 
+
 ## Villages
-- [[Solderry]]
 
 ## Other Landmarks
 

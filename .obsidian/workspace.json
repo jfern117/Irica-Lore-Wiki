@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9471628fce3bea54",
+            "id": "c5ad2527ca8bf7a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Irica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Irica"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,6 +179,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f7c5bd7de73bd1c3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 6
@@ -197,18 +206,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9471628fce3bea54",
+  "active": "c5ad2527ca8bf7a6",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Irica.md",
-    "Menopolis.md",
-    "Places of Note.md",
-    "Solderry.md",
-    "Ostana.md",
     "Marelia.md",
+    "Places of Note.md",
+    "Irica.md",
+    "Ostana.md",
+    "templates/Nation.md",
+    "Welcome.md",
+    "Glenveil Marshes.md",
+    "templates/Geographic Location.md",
+    "templates/Villages.md",
+    "templates/City.md",
+    "templates/NPC.md",
+    "Trader's Quay.md",
+    "Underduke Percival Sarenz.md",
+    "Underduke Sarenz.md",
+    "Menopolis.md",
+    "templates",
+    "New folder",
+    "Solderry.md",
     "Places.md",
     "CPAP.md"
   ]
