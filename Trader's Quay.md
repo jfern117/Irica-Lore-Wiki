@@ -1,1 +1,1 @@
-The capital city of Marelia, known widely as the trade hub of the continent. Great place for some, not so much for others.
+The capital city of [[Marelia]], known widely as the trade hub of the continent. Great place for some, not so much for others.

@@ -1,3 +1,11 @@
+---
+type: location
+tags:
+  - city
+---
 
-## Rumors
-- 
+# Overview
+
+# History
+
+# Rumors

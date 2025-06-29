@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irica.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irica"
+              "title": "README"
             }
           }
         ]
@@ -207,29 +207,40 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt In-place": false
     }
   },
   "active": "c5ad2527ca8bf7a6",
   "lastOpenFiles": [
-    "Marelia.md",
-    "Places of Note.md",
-    "Irica.md",
-    "Ostana.md",
-    "templates/Nation.md",
+    "Menopolis.md",
+    "images/readme/github_download_instructions.png",
+    "README.md",
+    "images/readme/obsidian_opening_instructions.png",
+    "images/readme",
+    "images/New folder",
+    "images",
+    "New folder",
     "Welcome.md",
+    "Underduke Percival Sarenz.md",
+    "templates/City.md",
+    "Ostana.md",
+    "Places of Note.md",
+    "Solderry.md",
+    "Trader's Quay.md",
+    "templates/NPC.md",
+    "templates/Player Character.md",
+    "Untitled.md",
+    "Marelia.md",
+    "Irica.md",
+    "templates/Nation.md",
     "Glenveil Marshes.md",
     "templates/Geographic Location.md",
     "templates/Villages.md",
-    "templates/City.md",
-    "templates/NPC.md",
-    "Trader's Quay.md",
-    "Underduke Percival Sarenz.md",
     "Underduke Sarenz.md",
-    "Menopolis.md",
     "templates",
-    "New folder",
-    "Solderry.md",
     "Places.md",
     "CPAP.md"
   ]
