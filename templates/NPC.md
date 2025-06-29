@@ -5,6 +5,8 @@ tags:
 ---
 # Appearance
 
-# History
+# Known History
+
+# Previous Encounters
 
 # Notes

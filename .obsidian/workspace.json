@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "dbf2feaa99d68d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Party.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Party"
+            }
+          },
+          {
+            "id": "ccf4e7f3ae9e3f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Osbert Ashbourne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Osbert Ashbourne"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,8 +156,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -213,32 +242,41 @@
       "meld-encrypt:Encrypt/Decrypt In-place": false
     }
   },
-  "active": "c5ad2527ca8bf7a6",
+  "active": "ccf4e7f3ae9e3f12",
   "lastOpenFiles": [
-    "Menopolis.md",
-    "images/readme/github_download_instructions.png",
-    "README.md",
-    "images/readme/obsidian_opening_instructions.png",
-    "images/readme",
-    "images/New folder",
-    "images",
-    "New folder",
-    "Welcome.md",
-    "Underduke Percival Sarenz.md",
+    "images/pcs/osbert_ashbourne.png",
+    "images/pcs",
+    "templates/Villages.md",
     "templates/City.md",
-    "Ostana.md",
-    "Places of Note.md",
-    "Solderry.md",
-    "Trader's Quay.md",
+    "templates/Geographic Location.md",
+    "templates/Nation.md",
     "templates/NPC.md",
     "templates/Player Character.md",
-    "Untitled.md",
-    "Marelia.md",
+    "Osbert Ashbourne.md",
+    "The Party.md",
+    "Welcome.md",
+    "Underduke Percival Sarenz.md",
+    "README.md",
+    "Smarty D'Goodread.md",
+    "images/npcs/smarty-dgoodread-artists-rendition.webp",
+    "images.md",
+    "images/npcs/smarty-dgoodread-artists-rendition.webp.crdownload",
+    "images/npcs",
+    "images/New folder",
     "Irica.md",
-    "templates/Nation.md",
+    "Marelia.md",
     "Glenveil Marshes.md",
-    "templates/Geographic Location.md",
-    "templates/Villages.md",
+    "Menopolis.md",
+    "Places of Note.md",
+    "images/readme/github_download_instructions.png",
+    "images/readme/obsidian_opening_instructions.png",
+    "images/readme",
+    "images",
+    "New folder",
+    "Ostana.md",
+    "Solderry.md",
+    "Trader's Quay.md",
+    "Untitled.md",
     "Underduke Sarenz.md",
     "templates",
     "Places.md",

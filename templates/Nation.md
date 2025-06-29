@@ -1,4 +1,8 @@
-#nation
+---
+type: location
+tags:
+  - nation
+---
 # Overview
 
 # Known Places

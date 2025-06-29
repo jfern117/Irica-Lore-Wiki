@@ -1,4 +1,8 @@
-#geographic-location
+---
+type: location
+tags:
+  - geographic-location
+---
 # Overview
 
 # History

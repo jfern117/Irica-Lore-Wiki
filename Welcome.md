@@ -6,3 +6,4 @@ Quick Links
 - [[Places of Note]]
 - [[Great Events]]
 - [[The Peoples of Irica]]
+- [[The Party]]
