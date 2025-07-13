@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Osbert Ashbourne.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Osbert Ashbourne"
+              "title": "README"
             }
           }
         ]
@@ -215,12 +215,14 @@
   },
   "active": "a53f8d626c1a3e1d",
   "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
+    "Osbert Ashbourne.md",
     "Pierpoint Manor.md",
     "images/Locations/Pierpont_Estate.jpg",
     "images/Locations",
     "images/New folder",
     "Arborcrest.md",
-    "Welcome.md",
     "Places of Note.md",
     "Marelia.md",
     "Glenveil Marshes.md",
@@ -242,7 +244,6 @@
     "templates/Organization.md",
     "Underduke Percival Sarenz.md",
     "Heskell Gremnir.md",
-    "Miriam Slyveth.md",
     "documents/Whispers of The Lost City.pdf",
     "documents",
     "Osbert Backstory Number 1.mdenc",
