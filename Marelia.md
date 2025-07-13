@@ -4,9 +4,8 @@ tags:
   - nation
   - irica
 ---
-
 # Overview
->[!quote] A place rife with crime and villainy, if not beautiful and warm in its geography and climate.
+>[!quote] <font size=5.5>A place rife with crime and villainy, if not beautiful and warm in its geography and climate. </font>
 >-[[Underduke Percival Sarenz]]
 
 **Marelia** is a costal country on the southern end of [[Irica]]. Of all the nations in the [[Triarchy]] of [[Irica]], it has the most trade. It's costal nature has made it profitable for its access to shipping and trade lanes. However, this prosperity has brought some untoward attention. It is an open secret that the [[Undertow]] thieves guild not only operates out of Marelia, but has significant influence in its governance. 
@@ -18,7 +17,6 @@ Prof. D'Goodread tells me there there isn't a better place nation in Irica to sp
 - [[Trader's Quay]]
 
 ## Villages
-- [[Grammenvale]]
 
 ## Other Landmarks
 - The [[Glenveil Marshes]]

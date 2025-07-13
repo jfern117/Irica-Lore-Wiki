@@ -2,9 +2,9 @@
 type: NPC
 tags:
   - non-player-character
-Disposition:
+Disposition: Favorable
 ---
-# Overview
+# Appearance
 
 # Known History
 

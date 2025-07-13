@@ -1,10 +1,11 @@
 ---
-type: NPC
+type: Organization
 tags:
   - non-player-character
-Disposition:
+  - organization
 ---
 # Overview
+## Known members
 
 # Known History
 

@@ -1,7 +1,7 @@
 ---
 type: location
 tags:
-  - village
+  - landmark
 ---
 # Overview
 

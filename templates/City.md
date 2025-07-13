@@ -7,4 +7,6 @@ tags:
 
 # History
 
+# Known Residents
+
 # Rumors

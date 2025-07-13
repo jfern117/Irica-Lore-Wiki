@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0df9ee0048f804",
+        "id": "c9d3f884ee2b3545",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ad2527ca8bf7a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "dbf2feaa99d68d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Party.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Party"
-            }
-          },
-          {
-            "id": "ccf4e7f3ae9e3f12",
+            "id": "a53f8d626c1a3e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Osbert Ashbourne.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Osbert Ashbourne"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,44 +213,47 @@
       "meld-encrypt:Encrypt/Decrypt In-place": false
     }
   },
-  "active": "ccf4e7f3ae9e3f12",
+  "active": "a53f8d626c1a3e1d",
   "lastOpenFiles": [
-    "images/pcs/osbert_ashbourne.png",
-    "images/pcs",
-    "templates/Villages.md",
-    "templates/City.md",
-    "templates/Geographic Location.md",
-    "templates/Nation.md",
-    "templates/NPC.md",
-    "templates/Player Character.md",
-    "Osbert Ashbourne.md",
-    "The Party.md",
-    "Welcome.md",
-    "Underduke Percival Sarenz.md",
-    "README.md",
-    "Smarty D'Goodread.md",
-    "images/npcs/smarty-dgoodread-artists-rendition.webp",
-    "images.md",
-    "images/npcs/smarty-dgoodread-artists-rendition.webp.crdownload",
-    "images/npcs",
+    "Pierpoint Manor.md",
+    "images/Locations/Pierpont_Estate.jpg",
+    "images/Locations",
     "images/New folder",
-    "Irica.md",
+    "Arborcrest.md",
+    "Welcome.md",
+    "Places of Note.md",
     "Marelia.md",
     "Glenveil Marshes.md",
-    "Menopolis.md",
-    "Places of Note.md",
-    "images/readme/github_download_instructions.png",
-    "images/readme/obsidian_opening_instructions.png",
-    "images/readme",
-    "images",
-    "New folder",
-    "Ostana.md",
-    "Solderry.md",
     "Trader's Quay.md",
-    "Untitled.md",
-    "Underduke Sarenz.md",
-    "templates",
-    "Places.md",
-    "CPAP.md"
+    "Nobria.md",
+    "Ostana.md",
+    "The Forest of Kings.md",
+    "Wilbur Thorensson.md",
+    "Verdegard.md",
+    "templates/Landmark.md",
+    "templates/City.md",
+    "Irica.md",
+    "Northwatch.md",
+    "Solderry Crossing.md",
+    "Solderry.md",
+    "templates/Nation.md",
+    "The Party.md",
+    "Daphne's Grace.md",
+    "templates/Organization.md",
+    "Underduke Percival Sarenz.md",
+    "Heskell Gremnir.md",
+    "Miriam Slyveth.md",
+    "documents/Whispers of The Lost City.pdf",
+    "documents",
+    "Osbert Backstory Number 1.mdenc",
+    "Osbert Home Town.mdenc",
+    "Sample Encrypted Document.mdenc",
+    "images/pcs/osbert_ashbourne.png",
+    "images/pcs",
+    "images/npcs/smarty-dgoodread-artists-rendition.webp",
+    "images/npcs/smarty-dgoodread-artists-rendition.webp.crdownload",
+    "images/npcs",
+    "images/readme/github_download_instructions.png",
+    "images/readme/obsidian_opening_instructions.png"
   ]
 }
