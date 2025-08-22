@@ -13,6 +13,4 @@ In the subsequent generations after, the neglected city was but a shell of its f
 
 # Rumors
 
-- While exploring [[Pierpoint Manor]], [[The Party]] found a scrawled note with a [[documents/Whispers of The Lost City.pdf|poem]] about Menopolis on it.
-
-[[documents/Whispers of The Lost City.pdf|]] 
+- While exploring [[Pierpoint Manor]], [[The Party]] found a scrawled note with a [[Whispers of The Lost City.pdf|poem]] about Menopolis on it.

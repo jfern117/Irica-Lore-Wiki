@@ -18,7 +18,7 @@ On each of the blade’s four flat faces, runes of the [[common]] tongue have be
 Hint: Oath
 🔐β 💡oath💡44Ea+lfFg6ylAMRaMZoW4K6RVxEeMA7XnPJkaItNfcsT7cxp9PhTKto870y3LZNUn5hdW1qeUcq2x6h+a74IdTDU7s7xoyvBO4u3dgwXvrZRlKiM90kdHwFk6oxvxEcaPlgOLQoUNk4ePV6sMqGCQq5wBquY3xySCmZXQ01o4ernHbnic7QGUi5AI5aQv7r00NG70UIva3fMM1meoGhxKCswo6tjyoBmLBvNofVqEMltVtV/QlN0/pj4g8+h 🔐
 
-![osbert](images/pcs/osbert_ashbourne.png)
+![osbert](osbert_ashbourne.png)
 source: microsoft copilot (not perfect, but good enough for a start). The most obvious error is the number of swords and that they are carried on his back.
 # History
 

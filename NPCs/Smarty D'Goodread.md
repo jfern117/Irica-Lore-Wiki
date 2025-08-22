@@ -6,7 +6,7 @@ tags:
 # Appearance
 A highly intelligent blue kobold dressed in refined clothing.
 
-![smarty](images/npcs/smarty-dgoodread-artists-rendition.webp)
+![smarty](smarty-dgoodread-artists-rendition.webp)
 source: https://www.reddit.com/r/DnD/comments/aiouc7/art_a_fancy_kobold/
 # Known History
 **Professor Smarty D'Goodread** and I have spent many long years on the road, studying the world, its history, and its inhabitants. Prof. D'Goodread has a storied history as intellectual success in a broad range of fields. This includes work as an author, cartographer, inventor, philosopher, and a travelling salesman. He is a gentleman, a scholar, an intellectual, and the finest friend a fellow could have.
